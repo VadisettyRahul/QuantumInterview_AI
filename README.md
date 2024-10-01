@@ -125,8 +125,8 @@ Creating a virtual environment is recommended to manage dependencies separately 
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Gamingpro237/Advanced_Interview_responder_with_AI.git
-   cd Advanced_Interview_responder_with_AI
+   git clone https://github.com/{username}/Quantum_Interview_AI.git
+   cd Quantum_Interview_AI
    ```
 
 2. **Create a Virtual Environment**:
@@ -176,8 +176,8 @@ If you prefer to install the dependencies globally without using a virtual envir
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Gamingpro237/Advanced_Interview_responder_with_AI.git
-   cd Advanced_Interview_responder_with_AI
+   git clone https://github.com/{username}/Quantum_Interview_AI.git
+   cd Quantum_Interview_AI
    ```
 
 2. **Install the Required Libraries**:
@@ -205,7 +205,7 @@ Contributions are welcome! Whether it's improving documentation, suggesting new 
 
 ## 💼 Applications
 
-The Advanced Interview Responder can be utilized in various scenarios, including:
+The Quantum_Interview_AI can be utilized in various scenarios, including:
 
 - **💼 Job Interviews**: Candidates can practice with the AI to prepare for real interviews, receiving tailored answers based on their resumes.
 - **💻 Virtual Meetings**: During online meetings or webinars, users can ask questions and get immediate AI-generated responses to enhance their presentations.
@@ -214,7 +214,7 @@ The Advanced Interview Responder can be utilized in various scenarios, including
 
 ## 📝 Conclusion
 
-The Advanced Interview Responder with AI is a valuable tool for anyone looking to enhance their interview skills and communication abilities. By combining AI-generated responses with a teleprompter interface, it provides users with a unique and effective way to prepare for and navigate interviews confidently.
+The Quantum_Interview_AI with AI is a valuable tool for anyone looking to enhance their interview skills and communication abilities. By combining AI-generated responses with a teleprompter interface, it provides users with a unique and effective way to prepare for and navigate interviews confidently.
 
 ## 📜 License
 
